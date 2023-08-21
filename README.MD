@@ -72,7 +72,7 @@ Matplotlib.pyplot is a collection of functions that make matplotlib work like MA
 
 **About Sys**
 
-The python sys module provides functions and variables which are used to manipulate different parts of the Python Runtime Environment. It lets us access system-specific parameters and functions.
+The python sys module provides functions and variables which are used to manipulate different parts of the Python Runtime Environment. It lets us access system-specific parameters or functions.
 
 
 Various Menus Made: -
